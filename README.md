@@ -25,9 +25,9 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,bash,powershell)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
 
 
 <br>
@@ -36,7 +36,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,php,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,py,php,mysql,java,docker)](https://skillicons.dev)
 
 <br>
 
