@@ -1,4 +1,4 @@
-<div align="center" width="50">
+en<div align="center" width="50">
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Alvaro Giachetto</h1>
 
@@ -55,6 +55,6 @@
 <br>
 
 ---
-Credits for copy:@AlvaroGiachetto
+Credits for use:@AlvaroGiachetto
 
 Last edited on: 1/11/2024
