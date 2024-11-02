@@ -51,11 +51,9 @@
 ## GitHub Thropies 🏆 :
 
 <br>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlvaroGiachetto)](https://github.com/AlvaroGiachetto/github-profile-trophy)
 
 <br>
-
 ---
 Credits for use:@AlvaroGiachetto
 
