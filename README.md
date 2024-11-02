@@ -7,7 +7,7 @@
 ## About Me :
 
 
-- 🎓 Student of the Bachelor of Information Technology at UTU [Escuela Técnica N°1 Sergio Gonzáles Olaizola](https://www.utu.edu.uy/informatica )
+- 🎓 Student of the Bachelor of Information Technology at UTU: [Escuela Técnica N°1 Sergio Gonzáles Olaizola](https://www.instagram.com/escuelatecnica1sgo?igsh=MWNhbmNpYXZobmx5bg==)
 - 🏡 Lives in **Uruguay, Bella Unión**
 - ⚡ **Fun Facts** : 🍕 🎮 🎧 👨‍💻
 
@@ -32,8 +32,6 @@
 ## I want to learn or I am studying...
 
 <br>
-
-
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/office/48/000000/react.png"/> 
