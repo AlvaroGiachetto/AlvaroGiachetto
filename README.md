@@ -26,6 +26,7 @@
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 
@@ -35,7 +36,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,php,sql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,mysql,java)](https://skillicons.dev)
 
 <br>
 
