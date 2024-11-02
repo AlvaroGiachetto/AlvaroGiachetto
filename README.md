@@ -36,7 +36,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,py,php,mysql,java,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,mysql,java,mongodb,docker)](https://skillicons.dev)
 
 <br>
 
