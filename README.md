@@ -25,7 +25,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=Linux,vs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 
@@ -35,9 +35,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-<img src="https://img.icons8.com/office/48/000000/react.png"/> 
+[![My Skills](https://skillicons.dev/icons?i=py,php,sql,java)](https://skillicons.dev)
 
 <br>
 
