@@ -12,29 +12,22 @@
 - ⚡ **Fun Facts** : 🍕 🎮 🎧 👨‍💻
 <br>
 
+
+
+## 👨‍💻 My Skills & Technologies (Still Studying)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vscode,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,postgres,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,mongodb,flask,sklearn,tensorflow,pytorch,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,githubactions,jenkins)](https://skillicons.dev)
+
+<br>
+
+<br>
 ## Connect with me ☕ :
 <br>
 
 [![@giachetto.alvaro](https://img.icons8.com/fluency/48/000000/instagram-new.png "@giachetto.alvaro")](https://www.instagram.com/giachetto.alvaro/)[![@alvaro-gaston-giachetto-costa](https://img.icons8.com/fluency/48/000000/linkedin.png "@alvaro-gaston-giachetto-costa")](https://www.linkedin.com/in/alvaro-gaston-giachetto-costa-50966b332/) [![@alvarogiachettoo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@alvarogiachettoo@gmail.com")](alvarogiachettoo@gmail.com)
-
-<br>
-
-## What I am Good at 🧑‍💻 :
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,bash,powershell)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-
-<br>
-
-## I want to learn or I am studying...
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=py,php,mysql,java,mongodb,docker)](https://skillicons.dev)
 
 <br>
 
