@@ -7,7 +7,7 @@
 ## About Me :
 
 
-- 🎓 Student of the Bachelor of Information Technology at UTU: [Escuela Técnica N°1 Sergio Gonzáles Olaizola](https://www.instagram.com/escuelatecnica1sgo?igsh=MWNhbmNpYXZobmx5bg==)
+- 🎓 Student of Information Technology at UTU: [Escuela Técnica N°1 Sergio Gonzáles Olaizola](https://www.instagram.com/escuelatecnica1sgo?igsh=MWNhbmNpYXZobmx5bg==)
 - 🏡 Lives in **Uruguay, Bella Unión**
 - ⚡ **Fun Facts** : 🍕 🎮 🎧 👨‍💻
 <br>
@@ -15,7 +15,7 @@
 ## Connect with me ☕ :
 <br>
 
-[![@agc.alvaro](https://img.icons8.com/fluency/48/000000/instagram-new.png "@agc.alvaro")](https://www.instagram.com/agc.alvaro/)[![@alvaro-gaston-giachetto-costa](https://img.icons8.com/fluency/48/000000/linkedin.png "@alvaro-gaston-giachetto-costa")](https://www.linkedin.com/in/alvaro-gaston-giachetto-costa-50966b332/) [![@alvarogiachettoo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@alvarogiachettoo@gmail.com")](alvarogiachettoo@gmail.com)
+[![@giachetto.alvaro](https://img.icons8.com/fluency/48/000000/instagram-new.png "@giachetto.alvaro")](https://www.instagram.com/giachetto.alvaro/)[![@alvaro-gaston-giachetto-costa](https://img.icons8.com/fluency/48/000000/linkedin.png "@alvaro-gaston-giachetto-costa")](https://www.linkedin.com/in/alvaro-gaston-giachetto-costa-50966b332/) [![@alvarogiachettoo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@alvarogiachettoo@gmail.com")](alvarogiachettoo@gmail.com)
 
 <br>
 
@@ -25,7 +25,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,bash,powershell)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 
 <br>
