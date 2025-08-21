@@ -17,9 +17,11 @@
 ## 👨‍💻 My Skills & Technologies (Still Studying)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,git,vscode,docker)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,mysql,postgres,java)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,mongodb,flask,sklearn,tensorflow,pytorch,fastapi)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,githubactions,jenkins)](https://skillicons.dev)
+
 
 <br>
 
