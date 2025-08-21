@@ -26,8 +26,6 @@
 <br>
 
 <br>
-## Connect with me ☕ :
-<br>
 
 [![@giachetto.alvaro](https://img.icons8.com/fluency/48/000000/instagram-new.png "@giachetto.alvaro")](https://www.instagram.com/giachetto.alvaro/)[![@alvaro-gaston-giachetto-costa](https://img.icons8.com/fluency/48/000000/linkedin.png "@alvaro-gaston-giachetto-costa")](https://www.linkedin.com/in/alvaro-gaston-giachetto-costa-50966b332/) [![@alvarogiachettoo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@alvarogiachettoo@gmail.com")](alvarogiachettoo@gmail.com)
 
