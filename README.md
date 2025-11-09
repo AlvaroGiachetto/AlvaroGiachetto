@@ -12,50 +12,49 @@
 - ⚡ **Fun Facts** : 🍕 🎮 🎧 👨‍💻
 <br>
 
-
 ## 👨‍💻 My Skills & Full Stack Technologies
-
+ 
 ### **Frontend**
 
-![HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg =40x40)
-![CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg =40x40)
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg =40x40)
-![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg =40x40)
-![React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg =40x40)
-![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg =40x40)
-![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg =40x40)
+![HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg)
+![CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg)
+![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg)
+![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg)
+![React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg)
+![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg)
+![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg)
 
 ### **Backend**
 
-![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg =40x40)
-![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg =40x40)
-![NestJS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg =40x40)
-![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg =40x40)
+![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg)
+![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg)
+![NestJS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg)
+![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg)
 
 ### **Databases**
 
-![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg =40x40)
-![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg =40x40)
+![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg)
+![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg)
 
 ### **Infrastructure & DevOps**
 
-![Docker](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg =40x40)
-![Kubernetes](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg =40x40)
-![Terraform](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/terraform.svg =40x40)
-![AWS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg =40x40)
-![GitHub Actions](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg =40x40)
+![Docker](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg)
+![Kubernetes](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg)
+![Terraform](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/terraform.svg)
+![AWS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg)
+![GitHub Actions](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg)
 
 ### **Authentication & Security**
 
-![Firebase Authentication](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg =40x40)
-![Auth0](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/auth0.svg =40x40)
+![Firebase Authentication](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg)
+![Auth0](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/auth0.svg)
 
 ### **Other Services**
 
-![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stripe.svg =40x40)
-![Twilio](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twilio.svg =40x40)
-![SendGrid](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sendgrid.svg =40x40)
-![Hasura](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hasura.svg =40x40)
+![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stripe.svg)
+![Twilio](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twilio.svg)
+![SendGrid](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sendgrid.svg)
+![Hasura](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hasura.svg)
 
 <br>
 # Social
