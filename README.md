@@ -49,12 +49,6 @@
 [![Firebase Authentication](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 [![Auth0](https://skillicons.dev/icons?i=auth0)](https://skillicons.dev)
 
-### **Other Services**
-
-[![Stripe](https://skillicons.dev/icons?i=stripe)](https://skillicons.dev)
-[![Twilio](https://skillicons.dev/icons?i=twilio)](https://skillicons.dev)
-[![SendGrid](https://skillicons.dev/icons?i=sendgrid)](https://skillicons.dev)
-[![Hasura](https://skillicons.dev/icons?i=hasura)](https://skillicons.dev)
 
 <br>
 
