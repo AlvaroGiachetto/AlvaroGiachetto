@@ -13,13 +13,50 @@
 <br>
 
 
-
 ## 👨‍💻 My Skills & Technologies Full Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,postgres,mongodb)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
-## Others
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,py,java,mysql)](https://skillicons.dev)
+## Backend
+
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+
+## Base de Datos
+
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![PlanetScale](https://skillicons.dev/icons?i=planetScale)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+## Infraestructura y DevOps
+
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
+
+## Autenticación y Seguridad
+
+[![Auth0](https://skillicons.dev/icons?i=auth0)](https://skillicons.dev)
+[![Firebase Authentication](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+
+## Otros Servicios
+
+[![Stripe](https://skillicons.dev/icons?i=stripe)](https://skillicons.dev)
+[![Twilio](https://skillicons.dev/icons?i=twilio)](https://skillicons.dev)
+[![SendGrid](https://skillicons.dev/icons?i=sendgrid)](https://skillicons.dev)
+[![Hasura](https://skillicons.dev/icons?i=hasura)](https://skillicons.dev)
+
+
 
 
 <br>
