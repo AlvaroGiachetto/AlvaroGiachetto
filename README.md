@@ -15,53 +15,50 @@
 
 ## 👨‍💻 My Skills & Technologies Full Stack
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+### **Frontend**
 
-## Backend
+[![HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg)](https://simpleicons.org/icons/html5)
+[![CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg)](https://simpleicons.org/icons/css3)
+[![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg)](https://simpleicons.org/icons/javascript)
+[![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg)](https://simpleicons.org/icons/typescript)
+[![React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg)](https://simpleicons.org/icons/react)
+[![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg)](https://simpleicons.org/icons/tailwindcss)
+[![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg)](https://simpleicons.org/icons/nextdotjs)
 
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
-[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+### **Backend**
 
-## Base de Datos
+[![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg)](https://simpleicons.org/icons/node-dot-js)
+[![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg)](https://simpleicons.org/icons/express)
+[![NestJS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg)](https://simpleicons.org/icons/nestjs)
+[![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg)](https://simpleicons.org/icons/graphql)
 
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![PlanetScale](https://skillicons.dev/icons?i=planetScale)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+### **Base de Datos**
 
-## Infraestructura y DevOps
+[![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg)](https://simpleicons.org/icons/postgresql)
+[![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg)](https://simpleicons.org/icons/mongodb)
 
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
-[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
+### **Infraestructura y DevOps**
 
-## Autenticación y Seguridad
+[![Docker](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg)](https://simpleicons.org/icons/docker)
+[![Kubernetes](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg)](https://simpleicons.org/icons/kubernetes)
+[![Terraform](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/terraform.svg)](https://simpleicons.org/icons/terraform)
+[![AWS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg)](https://simpleicons.org/icons/amazonaws)
+[![GitHub Actions](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg)](https://simpleicons.org/icons/githubactions)
 
-[![Auth0](https://skillicons.dev/icons?i=auth0)](https://skillicons.dev)
-[![Firebase Authentication](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+### **Autenticación y Seguridad**
 
-## Otros Servicios
+[![Firebase Authentication](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg)](https://simpleicons.org/icons/firebase)
+[![Auth0](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/auth0.svg)](https://simpleicons.org/icons/auth0)
 
-[![Stripe](https://skillicons.dev/icons?i=stripe)](https://skillicons.dev)
-[![Twilio](https://skillicons.dev/icons?i=twilio)](https://skillicons.dev)
-[![SendGrid](https://skillicons.dev/icons?i=sendgrid)](https://skillicons.dev)
-[![Hasura](https://skillicons.dev/icons?i=hasura)](https://skillicons.dev)
+### **Otros Servicios**
 
-
-
+[![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stripe.svg)](https://simpleicons.org/icons/stripe)
+[![Twilio](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twilio.svg)](https://simpleicons.org/icons/twilio)
+[![SendGrid](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sendgrid.svg)](https://simpleicons.org/icons/sendgrid)
+[![Hasura](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hasura.svg)](https://simpleicons.org/icons/hasura)
 
 <br>
-
-<br>
+# Social
 
 [![@giachetto.alvaro](https://img.icons8.com/fluency/48/000000/instagram-new.png "@giachetto.alvaro")](https://www.instagram.com/giachetto.alvaro/)[![@alvaro-gaston-giachetto-costa](https://img.icons8.com/fluency/48/000000/linkedin.png "@alvaro-gaston-giachetto-costa")](https://www.linkedin.com/in/alvaro-gaston-giachetto-costa-50966b332/) [![@alvarogiachettoo@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@alvarogiachettoo@gmail.com")](alvarogiachettoo@gmail.com)
 
