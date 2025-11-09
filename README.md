@@ -14,40 +14,12 @@
 
 ## 👨‍💻 My Skills & Full Stack Technologies
 
-### **Frontend**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,postgres,prisma,firebase,vercel)](https://skillicons.dev)
 
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+## Others
 
-### **Backend**
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,docker,python,java,php)](https://skillicons.dev)
 
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
-[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
-
-### **Databases**
-
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-
-### **Infrastructure & DevOps**
-
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
-[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
-
-### **Authentication & Security**
-
-[![Firebase Authentication](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-[![Auth0](https://skillicons.dev/icons?i=auth0)](https://skillicons.dev)
 
 
 <br>
