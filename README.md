@@ -17,45 +17,45 @@
 
 ### **Frontend**
 
-[![HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg)](https://simpleicons.org/icons/html5)
-[![CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg)](https://simpleicons.org/icons/css3)
-[![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg)](https://simpleicons.org/icons/javascript)
-[![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg)](https://simpleicons.org/icons/typescript)
-[![React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg)](https://simpleicons.org/icons/react)
-[![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg)](https://simpleicons.org/icons/tailwindcss)
-[![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg)](https://simpleicons.org/icons/nextdotjs)
+<a href="https://simpleicons.org/icons/html5" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="40" height="40" alt="HTML"></a>
+<a href="https://simpleicons.org/icons/css3" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="40" height="40" alt="CSS"></a>
+<a href="https://simpleicons.org/icons/javascript" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="40" height="40" alt="JavaScript"></a>
+<a href="https://simpleicons.org/icons/typescript" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="40" height="40" alt="TypeScript"></a>
+<a href="https://simpleicons.org/icons/react" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="40" height="40" alt="React"></a>
+<a href="https://simpleicons.org/icons/tailwindcss" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS"></a>
+<a href="https://simpleicons.org/icons/nextdotjs" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" width="40" height="40" alt="Next.js"></a>
 
 ### **Backend**
 
-[![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg)](https://simpleicons.org/icons/node-dot-js)
-[![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg)](https://simpleicons.org/icons/express)
-[![NestJS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg)](https://simpleicons.org/icons/nestjs)
-[![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg)](https://simpleicons.org/icons/graphql)
+<a href="https://simpleicons.org/icons/node-dot-js" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" width="40" height="40" alt="Node.js"></a>
+<a href="https://simpleicons.org/icons/express" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" width="40" height="40" alt="Express.js"></a>
+<a href="https://simpleicons.org/icons/nestjs" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg" width="40" height="40" alt="NestJS"></a>
+<a href="https://simpleicons.org/icons/graphql" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg" width="40" height="40" alt="GraphQL"></a>
 
 ### **Base de Datos**
 
-[![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg)](https://simpleicons.org/icons/postgresql)
-[![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg)](https://simpleicons.org/icons/mongodb)
+<a href="https://simpleicons.org/icons/postgresql" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" width="40" height="40" alt="PostgreSQL"></a>
+<a href="https://simpleicons.org/icons/mongodb" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg" width="40" height="40" alt="MongoDB"></a>
 
 ### **Infraestructura y DevOps**
 
-[![Docker](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg)](https://simpleicons.org/icons/docker)
-[![Kubernetes](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg)](https://simpleicons.org/icons/kubernetes)
-[![Terraform](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/terraform.svg)](https://simpleicons.org/icons/terraform)
-[![AWS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg)](https://simpleicons.org/icons/amazonaws)
-[![GitHub Actions](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg)](https://simpleicons.org/icons/githubactions)
+<a href="https://simpleicons.org/icons/docker" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" width="40" height="40" alt="Docker"></a>
+<a href="https://simpleicons.org/icons/kubernetes" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg" width="40" height="40" alt="Kubernetes"></a>
+<a href="https://simpleicons.org/icons/terraform" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/terraform.svg" width="40" height="40" alt="Terraform"></a>
+<a href="https://simpleicons.org/icons/amazonaws" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="40" height="40" alt="AWS"></a>
+<a href="https://simpleicons.org/icons/githubactions" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg" width="40" height="40" alt="GitHub Actions"></a>
 
 ### **Autenticación y Seguridad**
 
-[![Firebase Authentication](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg)](https://simpleicons.org/icons/firebase)
-[![Auth0](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/auth0.svg)](https://simpleicons.org/icons/auth0)
+<a href="https://simpleicons.org/icons/firebase" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg" width="40" height="40" alt="Firebase Authentication"></a>
+<a href="https://simpleicons.org/icons/auth0" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/auth0.svg" width="40" height="40" alt="Auth0"></a>
 
 ### **Otros Servicios**
 
-[![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stripe.svg)](https://simpleicons.org/icons/stripe)
-[![Twilio](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twilio.svg)](https://simpleicons.org/icons/twilio)
-[![SendGrid](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sendgrid.svg)](https://simpleicons.org/icons/sendgrid)
-[![Hasura](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hasura.svg)](https://simpleicons.org/icons/hasura)
+<a href="https://simpleicons.org/icons/stripe" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stripe.svg" width="40" height="40" alt="Stripe"></a>
+<a href="https://simpleicons.org/icons/twilio" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twilio.svg" width="40" height="40" alt="Twilio"></a>
+<a href="https://simpleicons.org/icons/sendgrid" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sendgrid.svg" width="40" height="40" alt="SendGrid"></a>
+<a href="https://simpleicons.org/icons/hasura" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hasura.svg" width="40" height="40" alt="Hasura"></a>
 
 <br>
 # Social
