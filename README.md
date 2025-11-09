@@ -13,48 +13,48 @@
 <br>
 
 ## 👨‍💻 My Skills & Full Stack Technologies
- 
+
 ### **Frontend**
 
-![HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg)
-![CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg)
-![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg)
-![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg)
-![React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg)
-![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg)
-![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 ### **Backend**
 
-![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg)
-![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg)
-![NestJS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg)
-![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![NestJS](https://skillicons.dev/icons?i=nestjs)](https://skillicons.dev)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
 
 ### **Databases**
 
-![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg)
-![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ### **Infrastructure & DevOps**
 
-![Docker](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg)
-![Kubernetes](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg)
-![Terraform](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/terraform.svg)
-![AWS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg)
-![GitHub Actions](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
 
 ### **Authentication & Security**
 
-![Firebase Authentication](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg)
-![Auth0](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/auth0.svg)
+[![Firebase Authentication](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![Auth0](https://skillicons.dev/icons?i=auth0)](https://skillicons.dev)
 
 ### **Other Services**
 
-![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stripe.svg)
-![Twilio](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twilio.svg)
-![SendGrid](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sendgrid.svg)
-![Hasura](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hasura.svg)
+[![Stripe](https://skillicons.dev/icons?i=stripe)](https://skillicons.dev)
+[![Twilio](https://skillicons.dev/icons?i=twilio)](https://skillicons.dev)
+[![SendGrid](https://skillicons.dev/icons?i=sendgrid)](https://skillicons.dev)
+[![Hasura](https://skillicons.dev/icons?i=hasura)](https://skillicons.dev)
 
 <br>
 # Social
