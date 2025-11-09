@@ -13,49 +13,49 @@
 <br>
 
 
-## 👨‍💻 My Skills & Technologies Full Stack
+## 👨‍💻 My Skills & Full Stack Technologies
 
 ### **Frontend**
 
-<a href="https://simpleicons.org/icons/html5" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg" width="40" height="40" alt="HTML"></a>
-<a href="https://simpleicons.org/icons/css3" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg" width="40" height="40" alt="CSS"></a>
-<a href="https://simpleicons.org/icons/javascript" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" width="40" height="40" alt="JavaScript"></a>
-<a href="https://simpleicons.org/icons/typescript" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg" width="40" height="40" alt="TypeScript"></a>
-<a href="https://simpleicons.org/icons/react" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" width="40" height="40" alt="React"></a>
-<a href="https://simpleicons.org/icons/tailwindcss" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" width="40" height="40" alt="Tailwind CSS"></a>
-<a href="https://simpleicons.org/icons/nextdotjs" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg" width="40" height="40" alt="Next.js"></a>
+![HTML](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/html5.svg =40x40)
+![CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/css3.svg =40x40)
+![JavaScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg =40x40)
+![TypeScript](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/typescript.svg =40x40)
+![React](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg =40x40)
+![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg =40x40)
+![Next.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nextdotjs.svg =40x40)
 
 ### **Backend**
 
-<a href="https://simpleicons.org/icons/node-dot-js" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg" width="40" height="40" alt="Node.js"></a>
-<a href="https://simpleicons.org/icons/express" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg" width="40" height="40" alt="Express.js"></a>
-<a href="https://simpleicons.org/icons/nestjs" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg" width="40" height="40" alt="NestJS"></a>
-<a href="https://simpleicons.org/icons/graphql" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg" width="40" height="40" alt="GraphQL"></a>
+![Node.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/node-dot-js.svg =40x40)
+![Express.js](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/express.svg =40x40)
+![NestJS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nestjs.svg =40x40)
+![GraphQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg =40x40)
 
-### **Base de Datos**
+### **Databases**
 
-<a href="https://simpleicons.org/icons/postgresql" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" width="40" height="40" alt="PostgreSQL"></a>
-<a href="https://simpleicons.org/icons/mongodb" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg" width="40" height="40" alt="MongoDB"></a>
+![PostgreSQL](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg =40x40)
+![MongoDB](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mongodb.svg =40x40)
 
-### **Infraestructura y DevOps**
+### **Infrastructure & DevOps**
 
-<a href="https://simpleicons.org/icons/docker" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" width="40" height="40" alt="Docker"></a>
-<a href="https://simpleicons.org/icons/kubernetes" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg" width="40" height="40" alt="Kubernetes"></a>
-<a href="https://simpleicons.org/icons/terraform" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/terraform.svg" width="40" height="40" alt="Terraform"></a>
-<a href="https://simpleicons.org/icons/amazonaws" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="40" height="40" alt="AWS"></a>
-<a href="https://simpleicons.org/icons/githubactions" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg" width="40" height="40" alt="GitHub Actions"></a>
+![Docker](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg =40x40)
+![Kubernetes](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg =40x40)
+![Terraform](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/terraform.svg =40x40)
+![AWS](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg =40x40)
+![GitHub Actions](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg =40x40)
 
-### **Autenticación y Seguridad**
+### **Authentication & Security**
 
-<a href="https://simpleicons.org/icons/firebase" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg" width="40" height="40" alt="Firebase Authentication"></a>
-<a href="https://simpleicons.org/icons/auth0" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/auth0.svg" width="40" height="40" alt="Auth0"></a>
+![Firebase Authentication](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/firebase.svg =40x40)
+![Auth0](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/auth0.svg =40x40)
 
-### **Otros Servicios**
+### **Other Services**
 
-<a href="https://simpleicons.org/icons/stripe" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stripe.svg" width="40" height="40" alt="Stripe"></a>
-<a href="https://simpleicons.org/icons/twilio" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twilio.svg" width="40" height="40" alt="Twilio"></a>
-<a href="https://simpleicons.org/icons/sendgrid" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sendgrid.svg" width="40" height="40" alt="SendGrid"></a>
-<a href="https://simpleicons.org/icons/hasura" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hasura.svg" width="40" height="40" alt="Hasura"></a>
+![Stripe](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/stripe.svg =40x40)
+![Twilio](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twilio.svg =40x40)
+![SendGrid](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sendgrid.svg =40x40)
+![Hasura](https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hasura.svg =40x40)
 
 <br>
 # Social
